@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/518_reactrouting_week8/static/css/main.a4853401.css",
+    "main.js": "/518_reactrouting_week8/static/js/main.286fa72b.js",
+    "static/js/453.66f5892e.chunk.js": "/518_reactrouting_week8/static/js/453.66f5892e.chunk.js",
+    "static/media/app_logo.png": "/518_reactrouting_week8/static/media/app_logo.dcdf95e1a40bb0e3cb83.png",
+    "index.html": "/518_reactrouting_week8/index.html",
+    "main.a4853401.css.map": "/518_reactrouting_week8/static/css/main.a4853401.css.map",
+    "main.286fa72b.js.map": "/518_reactrouting_week8/static/js/main.286fa72b.js.map",
+    "453.66f5892e.chunk.js.map": "/518_reactrouting_week8/static/js/453.66f5892e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4853401.css",
+    "static/js/main.286fa72b.js"
+  ]
+}
